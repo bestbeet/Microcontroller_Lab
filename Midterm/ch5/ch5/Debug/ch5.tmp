@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\ch5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\Debug/ch5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ch5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ch5.map</FILE>
+  <FILE>ch5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\ch5.asm</FILE><LINE>15</LINE></MAIN>
+  <LOOP><FILE>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\ch5.asm</FILE><LINE>17</LINE></LOOP>
+  <TB7SEG><FILE>C:\Users\5735512067.SW2-115\Desktop\micro\ch5\ch5\ch5.asm</FILE><LINE>31</LINE></TB7SEG>
+ </LABELS>
+</ASSEMBLER_INFO>
